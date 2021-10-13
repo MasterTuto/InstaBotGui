@@ -11,4 +11,4 @@ dist
 dist/*
 dist/**/*
 
-geckdriver.log
+geckodriver.log
