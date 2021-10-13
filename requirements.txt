@@ -1,0 +1,4 @@
+wxPython
+selenium
+requests
+webdriver_manager

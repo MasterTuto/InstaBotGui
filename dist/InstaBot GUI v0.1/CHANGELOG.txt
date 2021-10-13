@@ -1,0 +1,5 @@
+===========
+v0.1 (initial release): 17/02/2020
+
+* first version of GUI
+* uses InstaBot v5
